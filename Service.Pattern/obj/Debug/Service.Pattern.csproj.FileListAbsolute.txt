@@ -1,0 +1,14 @@
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\bin\Debug\CrmEmna.Data.dll
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\bin\Debug\EntityFramework.dll
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\bin\Debug\CrmEmna.Data.pdb
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\bin\Debug\CrmEmna.Data.dll.config
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\bin\Debug\EntityFramework.xml
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\obj\Debug\Service.Pattern.csprojAssemblyReference.cache
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\obj\Debug\Service.Pattern.csproj.CopyComplete
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\obj\Debug\Service.Pattern.pdb
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\bin\Debug\CrmEmna.Domain.dll
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\bin\Debug\CrmEmna.Domain.pdb
+C:\Users\Emna\source\repos\CrmEmna\Service.Pattern\bin\Debug\CrmEmna.Domain.dll.config

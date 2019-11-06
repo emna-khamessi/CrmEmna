@@ -1,0 +1,11 @@
+C:\Users\Emna\source\repos\CrmEmna\CrmEmna.Domain\bin\Debug\CrmEmna.Domain.dll.config
+C:\Users\Emna\source\repos\CrmEmna\CrmEmna.Domain\bin\Debug\CrmEmna.Domain.dll
+C:\Users\Emna\source\repos\CrmEmna\CrmEmna.Domain\bin\Debug\CrmEmna.Domain.pdb
+C:\Users\Emna\source\repos\CrmEmna\CrmEmna.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Emna\source\repos\CrmEmna\CrmEmna.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emna\source\repos\CrmEmna\CrmEmna.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Emna\source\repos\CrmEmna\CrmEmna.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emna\source\repos\CrmEmna\CrmEmna.Domain\obj\Debug\CrmEmna.Domain.csproj.CopyComplete
+C:\Users\Emna\source\repos\CrmEmna\CrmEmna.Domain\obj\Debug\CrmEmna.Domain.dll
+C:\Users\Emna\source\repos\CrmEmna\CrmEmna.Domain\obj\Debug\CrmEmna.Domain.pdb
+C:\Users\Emna\source\repos\CrmEmna\CrmEmna.Domain\obj\Debug\CrmEmna.Domain.csprojAssemblyReference.cache
